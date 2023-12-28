@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Engine/Unreal Projects/RacingGame_V1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Unreal Engine/Unreal Projects/RacingGame_V1/Content/RacingGameV1.umap",
+				"E:/Unreal Engine/Unreal Projects/RacingGame_V1/Content/BlackAlder/Foliage/SimpleWind/FT_BlackAlder_Field_01.uasset"
+			]
+		}
+	]
+}
